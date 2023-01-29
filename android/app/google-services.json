@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421200004739",
+    "project_id": "login-page-jpv",
+    "storage_bucket": "login-page-jpv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421200004739:android:0e5290c5dee1be33d57db6",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421200004739-u368ahee01a13veickcp7npk5sai60r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7qGW_JqOl648Q-ez6FG_SZNMIQVUa9Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421200004739-u368ahee01a13veickcp7npk5sai60r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
